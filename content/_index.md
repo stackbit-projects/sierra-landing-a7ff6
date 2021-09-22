@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
+meta_title: 'Sierra Research'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "https://source.unsplash.com/QrRSm-QbjW0" # "images/illustrations/pointing.svg"
 intro_image_absolute: false
