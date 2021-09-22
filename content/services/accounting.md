@@ -27,7 +27,7 @@ Interfaces and user interactions are intuitive and sensible, leading to the most
 
 ## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+Blockchain applications 
 
 > The ingredients of relevance are the predictive value and confirmatory value. 
 
