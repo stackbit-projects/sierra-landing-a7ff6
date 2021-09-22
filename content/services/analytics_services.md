@@ -8,7 +8,7 @@ weight: 2
 
 Blockchain analytics is an emerging field of transactional analysis which provides deep insights into the behaviour of the network.
 
-![Analytics](images/page_images/analytics.jpeg)
+![Analytics](/images/page_images/analytics.jpeg)
 
 # Objectives
 
