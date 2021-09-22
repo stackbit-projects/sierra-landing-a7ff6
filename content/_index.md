@@ -9,6 +9,6 @@ intro_image_hide_on_mobile: true
 
 # Sierra Research.
 
-Scientia ac labore.
+_Scientia ac labore.
 
 We are a research & development institution dedicated to furthering 
