@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: true
 
 # Sierra Research.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Scientia ac labore.
+
+
