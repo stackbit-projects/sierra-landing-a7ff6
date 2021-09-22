@@ -12,7 +12,7 @@ Software development is concerned with the **design, development, maintainenance
 
 # Objectives 
 
-Financial accounting and financial reporting are often used as synonyms.
+To create reliab.
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
