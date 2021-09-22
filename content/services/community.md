@@ -25,6 +25,6 @@ We aim to build and foster strong project communities which is criticial to:
 
 We target the most popular community channels in crypto which generally encompass:
 
-* ![](http://codekeyboards.com/img/code-104-bright-backlit.jpg) Twitter
+* Twitter
 * Telegram
 * Discord
