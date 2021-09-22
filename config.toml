@@ -21,7 +21,7 @@ google_tag_manager_id = ""
   mobile = "images/logo/sierra_logo.svg"
   mobile_height = "36px"
   desktop = "images/logo/sierra_logo.svg"
-  desktop_height = "36px"
+  desktop_height = "60px"
   alt = "Serif - A Hugo Business Theme"
 
   [params.seo]
