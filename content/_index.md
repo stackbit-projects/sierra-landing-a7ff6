@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
 meta_title: 'Sierra Research'
-description: "Sierra Research is an R&D."
+description: "Sierra Research is an R&D institution focused on blockchain and web3."
 intro_image: "https://source.unsplash.com/QrRSm-QbjW0" # "images/illustrations/pointing.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
