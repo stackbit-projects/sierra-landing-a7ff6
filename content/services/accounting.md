@@ -14,7 +14,7 @@ Software development is concerned with the **design, development, maintainenance
 
 To create performant, reliable and scalable decentralised applications (dApps).
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
+1. Performant
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
 3. According to the European Accounting Association:
 
