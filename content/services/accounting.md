@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-Software development (or software engineering) is the field of engineering concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Software development (or software engineering) is the field of engineering concerned with the **design, develop, maintain, test, and evaluate** of financial transactions related to a business.
 
 ![Accounting Services](https://source.unsplash.com/OqtafYT5kTw)
 
