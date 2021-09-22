@@ -3,9 +3,8 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We believe in knowledge through hard work _Scientia ac labore_. By pushing the envelope and innovating in new and upcoming fields we hope to make an outsized impact on the world around us.
+
 
 ## Ne verba patulosque numen vix libet
 
