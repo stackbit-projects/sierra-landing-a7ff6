@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-Software development (or software engineering) is concerned with the **design, development, maintainenance and testing** of financial transactions related to a business.
+Software development is concerned with the **design, development, maintainenance and testing** of financial transactions related to a business.
 
 ![Accounting Services](https://source.unsplash.com/OqtafYT5kTw)
 
