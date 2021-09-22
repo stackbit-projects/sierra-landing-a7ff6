@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Sierra Research"
 themesDir = "themes"
 theme = "hugo serif"
 publishDir = "public"
