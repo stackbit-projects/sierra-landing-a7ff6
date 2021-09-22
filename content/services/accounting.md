@@ -16,7 +16,7 @@ To create performant, reliable and scalable decentralised applications (dApps).
 
 1. Performant
 2. Robust
-3. Scalable
+3. User-friendly
 
 ## Relevance
 
