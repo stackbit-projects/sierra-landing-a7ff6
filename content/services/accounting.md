@@ -17,7 +17,7 @@ To build decentralised applications (dApps) that are:
 ### Performant
 
 Meaning they run quickly and efficiently and process requests with a high throughput for the given use-case.
-2. Reliable - meaning that code is robust to adverse edge-cases, can perform during volatile market scenarios and is thoroughly tested for bugs and exploits to protect end-users.
+### Reliable - meaning that code is robust to adverse edge-cases, can perform during volatile market scenarios and is thoroughly tested for bugs and exploits to protect end-users.
 3. User-friendly - meaning the interfaces and user interactions are intuitive and sensible, leading to the most desirable experiences.
 
 ## Relevance
