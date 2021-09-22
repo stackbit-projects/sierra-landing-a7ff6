@@ -11,4 +11,4 @@ intro_image_hide_on_mobile: true
 
 _Scientia ac labore._
 
-We are a research and development institution dedicated to furthering the state of the art for blockchain and web3
+We are a research and development institution dedicated to furthering the state of the art for blockchain and web3 technology
