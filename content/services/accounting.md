@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-Software development is concerned with the **design, development, maintainenance and testing** of financial transactions related to a business.
+Software development is concerned with the **design, development, maintainenance and testing** of code for decentralised applications.
 
 ![Accounting Services](https://source.unsplash.com/OqtafYT5kTw)
 
