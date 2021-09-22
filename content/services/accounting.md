@@ -23,7 +23,7 @@ Applications are required to run quickly and efficiently and process requests wi
 Code is robust to adverse edge-cases, can perform during volatile market scenarios and is thoroughly tested for bugs and exploits to protect end-users.
 ### User-friendly
 
-meaning the interfaces and user interactions are intuitive and sensible, leading to the most desirable experiences.
+Interfaces and user interactions are intuitive and sensible, leading to the most desirable experiences.
 
 ## Relevance
 
