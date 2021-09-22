@@ -8,6 +8,6 @@ We believe in knowledge through hard work _Scientia ac labore_. By pushing the e
 
 ## Our Story
 
-Established in 2021, Sierra Research is a leading  engineering and research organisation focused on delivering high-performance blockchain applications in and around the Decentralised Finance vertical.
+Established in 2021, Sierra Research is a leading  engineering and research organisation focused on delivering high-performance blockchain applications in and around the Decentralised Finance (DeFi) vertical.
 
-In our journey to further the state of blockchain development and adoption we've brought together a talented, diligent and passionate collection of individuals to build the future of 
+In our journey to further the state of blockchain development and adoption we've brought together a talented, diligent and passionate team to build what we believe will be the future of the decentralised web.
