@@ -15,7 +15,7 @@ Software development is concerned with the **design, development, maintainenance
 To create performant, reliable and scalable decentralised applications (dApps).
 
 1. Performant
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
+2. Robust
 3. According to the European Accounting Association:
 
 ## Relevance
