@@ -16,7 +16,7 @@ To build decentralised applications (dApps) that are:
 
 ### Performant
 
-Meaning they run quickly and efficiently and process requests with a high throughput for the given use-case.
+Applications are required to run quickly and efficiently and process requests with a high throughput for the given use-case.
 ### Reliable
 
 Code is robust to adverse edge-cases, can perform during volatile market scenarios and is thoroughly tested for bugs and exploits to protect end-users.
