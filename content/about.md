@@ -1,6 +1,9 @@
 ---
 title: 'About'
 date: 2018-02-22T17:01:34+07:00
+intro_image: "https://source.unsplash.com/QrRSm-QbjW0" # "images/illustrations/pointing.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
 
 We believe in knowledge through hard work _Scientia ac labore_. By pushing the envelope and innovating in new and upcoming fields we aim to make a highly leveraged impact on the world around us.
