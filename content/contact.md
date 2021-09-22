@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-## Mailing Address 
+## Mailing Address
 68 Circular Road #02-01
 
 Singapore (049422)
