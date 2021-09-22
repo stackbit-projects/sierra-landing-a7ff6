@@ -6,7 +6,7 @@ featured: true
 weight: 1
 ---
 
-Software development is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Software development (or software engineering) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
 ![Accounting Services](https://source.unsplash.com/OqtafYT5kTw)
 
