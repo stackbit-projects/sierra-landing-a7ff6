@@ -5,7 +5,7 @@ date: 2018-02-22T17:01:34+07:00
 
 We believe in knowledge through hard work _Scientia ac labore_. By pushing the envelope and innovating in new and upcoming fields we aim to make a highly leveraged impact on the world around us.
 
-![Analytics](https://source.unsplash.com/hpjSkU2UYSU)
+![Analytics](https://source.unsplash.com/Q1p7bh3SHj8)
 
 
 ## Our Story
