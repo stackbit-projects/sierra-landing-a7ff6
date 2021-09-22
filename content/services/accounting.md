@@ -14,7 +14,7 @@ Software development is concerned with the **design, development, maintainenance
 
 To build decentralised applications (dApps) that are:
 
-1. Performant - meaning they run quickly and efficiently and process transactions with a high throughput for the given use-case.
+1. Performant - meaning they run quickly and efficiently and process requests with a high throughput for the given use-case.
 2. Robust
 3. User-friendly
 
