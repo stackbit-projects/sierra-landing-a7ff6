@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
 meta_title: 'Sierra Research'
-description: "Serif is a modern business theme for Hugo."
+description: "Sierra Research is an R&D."
 intro_image: "https://source.unsplash.com/QrRSm-QbjW0" # "images/illustrations/pointing.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
