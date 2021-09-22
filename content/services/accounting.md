@@ -12,7 +12,7 @@ Software development is concerned with the **design, development, maintainenance
 
 # Objectives 
 
-To create performant, reliable and scalable decentralised applications (dApps).
+To build decentralised applications (dApps) that are:
 
 1. Performant
 2. Robust
