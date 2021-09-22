@@ -11,4 +11,4 @@ intro_image_hide_on_mobile: true
 
 _Scientia ac labore._
 
-We are a research & development institution dedicated to furthering 
+We are a research & development institution dedicated to furthering the state of the art
