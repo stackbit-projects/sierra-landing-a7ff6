@@ -8,7 +8,7 @@ weight: 3
 
 Building a strong, passionate community is an instrumental and oft misunderstood aspect to launching successful projects.
 
-![Community](https://source.unsplash.com/vpxeE7s-my4)
+![Community](images/page_images/services.jpeg)
 
 Despite the nascency and rapidly evolving nature of the community, we aim to distill down some of our learnings and knowledge into actionable strategies.
 
