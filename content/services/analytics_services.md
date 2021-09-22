@@ -10,47 +10,20 @@ Blockchain analytics is an emerging field of transactional analysis which provid
 
 ![Analytics](https://source.unsplash.com/hpjSkU2UYSU)
 
-## Inter pectore totidem
+# Objectives
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+To provide a better understanding of:
 
-## Novis hunc qua erat caecisque
+1. How users interact with on-chain programs.
+2. Analysing key metrics that are of critical importance to the growth and adoptions of decentralised applications.
+3. Identify macro trends and new opportunities for growth in the market.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+## Areas of focus
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+### Data Engineering
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+This involves building reliable data pipelines that feed publically available blockchain data into our databases. Raw data however is only part of the solution, hence rigorous data cleaning and preparation is performed via a series of ingestion pipelines that prepares our data in a format that is best suited to performing analytics.
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+### Data Science
 
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+Investigating patterns and inferring behaviours is the key outcome for our data science capabilities. We look into surface level analytics such as volumes traded on chain and trends for usage and adoption. In future we plan to expand our capabilities into granular transactional analysis, sequence mining and graph-based analysis.
