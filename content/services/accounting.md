@@ -25,10 +25,20 @@ Code is robust to adverse edge-cases, can perform during volatile market scenari
 
 Interfaces and user interactions are intuitive and sensible, leading to the most desirable experiences.
 
-## Relevance
+## Landscape
 
-Blockchain applications 
+Blockchains provide a substrate or generalised compute framework for running decentralised code and applications. Over the years smart contract development has evolved into a booming field of software development, with many critical applications from Decentralised Finance to NFTs being run on these programs.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+We see a massive opportunity to further the state of the art when it comes to writing smart contract code, especially on nascent blockchains such as Solana.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Expertise
+
+Sierra provides services across the entire blockchain development stack. 
+
+### Back-end
+
+For smart contract programming we specialise primarily in Solidity and Rust smart contract development, which are two of the most popular languages. 
+
+### Front-end
+
+Our front-end stack tends to revolve around languages like Typescript and respective frameworks such as React.js.
