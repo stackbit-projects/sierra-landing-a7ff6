@@ -8,7 +8,7 @@ weight: 1
 
 Software development is concerned with the **design, development, maintainenance and testing** of code for decentralised applications.
 
-![Development](images/page_images/development.jpeg)
+![Development](/images/page_images/development.jpeg)
 
 # Objectives 
 
