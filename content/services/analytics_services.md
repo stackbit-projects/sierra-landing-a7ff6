@@ -6,7 +6,7 @@ draft: false
 weight: 2
 ---
 
-Analytics is the .
+Blockchain analytics is an emerging field of transactional analysis which provides deep insights into the behaviour of the network.
 
 ![Analytics](https://source.unsplash.com/hpjSkU2UYSU)
 
