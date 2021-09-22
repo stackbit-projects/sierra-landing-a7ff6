@@ -14,7 +14,7 @@ Software development is concerned with the **design, development, maintainenance
 
 To build decentralised applications (dApps) that are:
 
-1. Performant
+1. Performant - meaning they 
 2. Robust
 3. User-friendly
 
