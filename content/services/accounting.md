@@ -15,7 +15,7 @@ Software development is concerned with the **design, development, maintainenance
 To build decentralised applications (dApps) that are:
 
 1. Performant - meaning they run quickly and efficiently and process requests with a high throughput for the given use-case.
-2. Reliable - meaning that code is robust to adverse edge-cases, can perform during 
+2. Reliable - meaning that code is robust to adverse edge-cases, can perform during volatile 
 3. User-friendly
 
 ## Relevance
