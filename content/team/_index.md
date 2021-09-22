@@ -1,6 +1,6 @@
 ---
 title: 'Team'
-intro_image: "https://source.unsplash.com/vGgn0xLdy8s" # "images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg"
+intro_image: "images/page_images/team.jpeg" # "images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
